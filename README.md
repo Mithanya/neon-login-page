@@ -28,8 +28,3 @@ This project is a modern and visually engaging animated login page built using H
 ## Author
 Mithanya Murugesan
 
-GitHub: https://github.com/your-username  
-LinkedIn: https://www.linkedin.com/in/your-profile/
-
-## License
-This project is open source and available under the MIT License.
